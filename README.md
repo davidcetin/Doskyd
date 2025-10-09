@@ -1,0 +1,2 @@
+# Doskyd
+Quit Social Media
