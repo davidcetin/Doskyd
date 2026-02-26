@@ -1,2 +1,3 @@
 # Doskyd
-Quit Social Media
+Quit Social Media 
+Social Media Platforms Blocker
